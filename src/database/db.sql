@@ -1,0 +1,1 @@
+CREATE TABLE users (id varchar(32) NOT NULL PRIMARY KEY, name varchar(30) NOT NULL, card varchar(50) NOT NULL, email varchar(50) NOT NULL,password varchar(100) NOT NULL, date DATETIME NOT NULL);
